@@ -1,0 +1,4 @@
+C:\GGG\obj\Debug\netcoreapp3.1\GGG.csprojAssemblyReference.cache
+C:\GGG\obj\Debug\netcoreapp3.1\GGG.AssemblyInfoInputs.cache
+C:\GGG\obj\Debug\netcoreapp3.1\GGG.AssemblyInfo.cs
+C:\GGG\obj\Debug\netcoreapp3.1\GGG.csproj.CoreCompileInputs.cache
